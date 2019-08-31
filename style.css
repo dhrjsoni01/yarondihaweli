@@ -517,7 +517,7 @@ img {
 }
 
 .mu-counter-overlay {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.6);
   display: inline;
   padding: 100px 0;
   float: left;
@@ -1009,7 +1009,7 @@ RESERVATION SECTION
 }
 
 #mu-client-testimonial .mu-overlay {
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.6);
   display: inline;
   float: left;
   padding: 70px 0 100px;
